@@ -11,6 +11,10 @@ Wind Power and Biodiversity Conservation
 Small Wind Turbines in Urban Settings
 Environmental Impacts of Large Wind Farms
 
+Εδώ ένα βιντεο από τις πρώτες μας προσπάθειες : https://drive.google.com/file/d/1o5ldfQHCS8s3r9HmYm0tt7KoISesc-oB/view?usp=drivesdk
+
+Λίστα Υλικών - Κόστος:
+
 Όλα τα αρχεία (INO, STL, σχεδιαγράμματα) θα διατεθούν σε αυτο το αποθετήριο GitHub για ανοιχτή πρόσβαση και συνεργασία.
 
 Λίστα Υλικών - Κόστος:
